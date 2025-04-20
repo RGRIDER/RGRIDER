@@ -47,10 +47,11 @@
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/haider-zia2117)
-- [GitHub](https://github.com/RGRIDER)
-- [Email](mailto:haiderzia8@gmail.com)
-- [Phone](tel:+923185160336)
+- 📧 Email: [haiderzia8@gmail.com](mailto:haiderzia8@gmail.com)
+- 📱 Phone: [+92 318 5160336](tel:+923185160336)
+- 🔗 LinkedIn: [linkedin.com/in/haider-zia2117](https://www.linkedin.com/in/haider-zia2117)
+- 💻 GitHub: [RGRIDER](https://github.com/RGRIDER)
+
 
 ---
 
