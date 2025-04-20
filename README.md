@@ -1,47 +1,25 @@
-# 👋 Hi there, I'm Haider Zia
+# Hi, I'm Haider Zia! 👋
 
-🎓 **Computer Science Student** at FAST University Islamabad  
-💻 Passionate about Full-Stack Development  
-🚀 Exploring Java, C++, C#, HTML, CSS, JavaScript, and modern frameworks  
-📫 Reach me at: [haiderzia8@gmail.com](mailto:haiderzia8@gmail.com)  
-📱 Contact: [+92 318 5160336](tel:+923185160336)  
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/haider-zia2117) | [GitHub](https://github.com/RGRIDER)
+I'm a passionate **Computer Science** student at **FAST University Islamabad** with a knack for building clean, user-friendly applications. I love solving real-world problems using technology—especially through **Java**, **C++**, and **Web Development (HTML/CSS/JS)**. Whether it's creating dynamic web apps or architecting systems in C++ with OOP principles, I'm all about continuous learning and turning ideas into solutions.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Projects
 
-- **Languages:** C++, C#, Java, Python, HTML, CSS, JavaScript, SQL
-- **Frameworks & Tools:** Spring Boot, JavaFX, .NET, Oracle, VSCode, Docker, MongoDB, IntelliJ IDEA
+- **[Event Management System using Java, JavaFX, and Oracle](https://github.com/RGRIDER/DB_PROJ)**  
+  A desktop app for event creation, registration, and admin control. GUI powered by JavaFX and Oracle DB backend.
 
----
+- **[OOP Classroom Management System in C++](https://github.com/RGRIDER/OOP_PROJECT)**  
+  A Google Classroom-inspired system built in C++ using strong OOP concepts like inheritance, polymorphism, and file handling.
 
-## 💼 Projects
+- **[Pacman Game in Assembly](https://github.com/RGRIDER/PACMAN_COAL)**  
+  Low-level Pacman game built with Assembly, showcasing direct memory access and game logic implementation.
 
-### Event Management System Using Java, JavaFX, and Oracle | [LINK](https://github.com/RGRIDER/DB_PROJ)
-- Developed an event management system with a graphical interface using Java and JavaFX.
-- Integrated Oracle database for efficient event data management and retrieval.
+- **[To-Do List + Calculator (HTML/CSS/JavaScript)](https://github.com/RGRIDER/HTML_CSS_JAVA-SCRIPT)**  
+  Built a dynamic calculator with clean UI and JavaScript logic. Also developed a To-Do List app using local storage for persistence.
 
-### Pacman Game Using Assembly Language | [LINK](https://github.com/RGRIDER/PACMAN_COAL)
-- Developed a Pacman game implementing game logic and rendering using Assembly language.
-- Focused on low-level programming and memory management.
-
-### Desktop Application Using C# and SQL | [LINK](https://github.com/RGRIDER/OOP_PROJECT)
-- Created a desktop application with a user-friendly interface.
-- Implemented database functionalities using SQL for data storage and retrieval.
-
-### Classroom Management System Using C++ (OOP Concepts) | [LINK](https://github.com/RGRIDER/SDA_PROJ)
-- Built a classroom management system in C++ featuring creation of classes, uploading and submission of assignments, grading functionality, and student management, using core Object-Oriented Programming concepts.
-
-### Web Projects (HTML, CSS, JavaScript) | [LINK](https://github.com/RGRIDER/HTML_CSS_JAVA-SCRIPT)
-- Built a dynamic calculator capable of basic arithmetic operations using clean UI design and JavaScript logic.
-- Developed a fully functional To-Do List application that supports adding, removing, and editing tasks using local storage for persistent data management.
-
----
-
-## 📈 GitHub Stats
-
-![Haider's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RGRIDER&show_icons=true&theme=radical)
+- **[Software Design Analysis Mini Project](https://github.com/RGRIDER/SDA_PROJ)**  
+  Contribution-based software design project covering requirement engineering, architecture design, and modular implementation.
 
 ---
 
@@ -55,4 +33,6 @@
 
 ---
 
-*Feel free to check out my repositories and connect with me for collaboration or any queries!*
+## ⚡ Fun Fact
+
+> I once built Pacman using both Assembly and C++. Let's just say debugging in Assembly taught me the real meaning of patience 😅
